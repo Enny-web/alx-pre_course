@@ -1,1 +1,3 @@
-Here is my second readme file
+Here is my second read-me file
+It was super easy to create
+
